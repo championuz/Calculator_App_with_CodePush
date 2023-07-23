@@ -1,10 +1,10 @@
 # Calculator App in React Native
 
-This is a simple calculator app built in React Native that allows users to perform basic arithmetic calculations. The app includes buttons for digits (0-9), decimal point (.), and just two basic arithmetic operations: addition (+) and subtraction (-).
+This is a simple calculator app built in React Native that allows users to perform basic arithmetic calculations. The app includes buttons for digits (0-9), a decimal point (.), and the four basic arithmetic operations: addition (+), multiplication (*), division (/), and subtraction (-).
 
 ## Getting Started
 
-To get started with this project, follow the steps below to set up the development environment and run the app on your local machine.
+To get started with this project, you can follow the steps below to set up the development environment and run the app on your local machine.
 
 ### Prerequisites
 
@@ -19,17 +19,15 @@ Before proceeding, ensure you have the following software installed:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/championuz/Calculator_App_with_CodePush.git
 ```
-
-Replace `<repository_url>` with the URL of this repository.
 
 ### Installing Dependencies
 
 Once the repository is cloned, navigate to the project's root directory and install the required dependencies using npm:
 
 ```bash
-cd CalculatorApp
+cd Calculator_App_with_CodePush
 npm install
 
 Installing iOS Modules
